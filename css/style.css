@@ -1,0 +1,119 @@
+@font-face {
+	font-family: "FLarsseit";
+	src: url(../fonts/Larsseit.woff2) format("woff2"), url(../fonts/Larsseit.woff) format("woff"),
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "FLarsseit";
+	src: url(../fonts/Larsseit-Medium.woff2) format("woff2"), url(../fonts/Larsseit-Medium.woff) format("woff"),
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit" ;
+	src: url(../fonts/Larsseit-Bold.woff2) format("woff2"), url(../fonts/Larsseit-Bold.woff) format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato" ;
+	src: url(../fonts/Lato-Regular.woff2) format("woff2"), url(../fonts/Lato-Regular.woff) format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato" ;
+	src: url(../fonts/Lato-Bold.woff2) format("woff2"), url(../fonts/Lato-Bold.woff) format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato" ;
+	src: url(../fonts/Lato-Black.woff2) format("woff2"), url(..//fonts/Lato-Black.woff) format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+header {
+	font-family: "Lato";
+}
+
+main {
+	font-family: "Roboto";
+}
+
+footer {
+	font-family: "FLarsseit";
+	font-weight: 900;
+	color:indigo;
+}
+
+#top {
+	font-weight: 900;
+	color: red;
+}
+
+.paragraph {
+	font-weight: 400;
+	color: crimson;
+}
+
+h3 {
+	font-weight: 700;
+	color:tomato;
+}
+
+ul {
+	font-weight: normal;
+	color:firebrick;
+}
+
+nav {
+	font-weight: 700;
+	color: maroon;
+}
+
+.text {
+	font-weight: normal;
+	color: cornflowerblue;
+}
+
+h2 {
+	font-weight: 900;
+	color: fuchsia;
+}
+
+.text ~ p {
+	font-weight: 700;
+	color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
